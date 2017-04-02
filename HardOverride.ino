@@ -1,3 +1,7 @@
+//Main portion of this code was adapted from https://github.com/povlhp/iBus2PPM/
+//Special Thanks to Povl H. Pedersen
+
+//Radio Tx and Rx were prepared and hacked with the method given at https://github.com/povlhp/iBus2PPM/blob/master/iBus2PPM-instructions.md
 
 //Code for Arduino Pro Micro (Leonardo)
 
